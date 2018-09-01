@@ -1,0 +1,14 @@
+*{
+    background-image: url("fondo.png");
+
+}
+#practica{
+    font-family: 'Fredoka One', cursive;
+    color: orangered;
+    text-align: center;
+}
+li{
+    box-align:center;
+    display: inline;
+    padding: auto;
+}
